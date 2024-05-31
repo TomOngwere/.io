@@ -21,7 +21,7 @@ repository               : "https://tomongwere.github.io/.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Tom.jpeg"
   name             : "Tom Ongwere"
   pronouns         : # example: "she/her"  
   bio              : "Professor"
