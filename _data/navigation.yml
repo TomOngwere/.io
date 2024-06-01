@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/  
     children:
-      - title: "Course 1"
+      - title: "Programming"
         url: /teaching/  
       - title: "Course 2"
         url: /teaching/  
@@ -18,12 +18,12 @@ main:
       - title: "Course 4"
         url: /teaching/  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /Research/
     children:
-      - title: "Portfolio 1"
+      - title: "Complex Care Lab"
         url: /portfolio/ 
-      - title: "Portfolio 2"
+      - title: "Students"
         url: /portfolio/ 
         
   - title: "Blog Posts"
