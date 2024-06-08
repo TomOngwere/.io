@@ -1,0 +1,11 @@
+---
+title: "Track 5: Lessons Learned on Working with a Diverse Group of Students"
+collection: publications
+permalink: https://d1wqtxts1xzle7.cloudfront.net/54711572/Ongwere-MobileDCC-WISH17-libre.pdf?1507924178=&response-content-disposition=inline%3B+filename%3DToo_many_conditions_too_little_time_Desi.pdf&Expires=1717877194&Signature=Sp7JUsbHCr~k7Qu5exEf8NeXdSZ8y71Xv2NH7sDDGnc30iOHT~SGk8M0c8N3VLbgGinlKrVSoq2q2fceXF~ZQKzwf5lbU72f7LS~1QOgyQWFikystqItoJlX-qQf8dkKqA7yVBdIhXZ7EjyxmKhX9fw3M1vq8hdrz7AwOMxbbEF4Lt7ii431JtGtr5FoPFNGU0YDH4tNHZLKG78zEx1w2y41YAZ7TOdLCoPKWNUGhAINpZpPCFoQEtDKovT2Qs~HU5Ueqp4ti-ssMW12TdNddmzEY1Yvn9F-3lZ8uJSdeU5IQjbpHYs~QZRlKwPUIPqCkczvkT-IQUwUoorB8D-3iw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+excerpt: ''
+date: 2017/7/10
+venue: 'Workshop on Interactive Systems in Health Care'
+slidesurl: 'https://d1wqtxts1xzle7.cloudfront.net/54711572/Ongwere-MobileDCC-WISH17-libre.pdf?1507924178=&response-content-disposition=inline%3B+filename%3DToo_many_conditions_too_little_time_Desi.pdf&Expires=1717877194&Signature=Sp7JUsbHCr~k7Qu5exEf8NeXdSZ8y71Xv2NH7sDDGnc30iOHT~SGk8M0c8N3VLbgGinlKrVSoq2q2fceXF~ZQKzwf5lbU72f7LS~1QOgyQWFikystqItoJlX-qQf8dkKqA7yVBdIhXZ7EjyxmKhX9fw3M1vq8hdrz7AwOMxbbEF4Lt7ii431JtGtr5FoPFNGU0YDH4tNHZLKG78zEx1w2y41YAZ7TOdLCoPKWNUGhAINpZpPCFoQEtDKovT2Qs~HU5Ueqp4ti-ssMW12TdNddmzEY1Yvn9F-3lZ8uJSdeU5IQjbpHYs~QZRlKwPUIPqCkczvkT-IQUwUoorB8D-3iw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
+paperurl: 'https://d1wqtxts1xzle7.cloudfront.net/54711572/Ongwere-MobileDCC-WISH17-libre.pdf?1507924178=&response-content-disposition=inline%3B+filename%3DToo_many_conditions_too_little_time_Desi.pdf&Expires=1717877194&Signature=Sp7JUsbHCr~k7Qu5exEf8NeXdSZ8y71Xv2NH7sDDGnc30iOHT~SGk8M0c8N3VLbgGinlKrVSoq2q2fceXF~ZQKzwf5lbU72f7LS~1QOgyQWFikystqItoJlX-qQf8dkKqA7yVBdIhXZ7EjyxmKhX9fw3M1vq8hdrz7AwOMxbbEF4Lt7ii431JtGtr5FoPFNGU0YDH4tNHZLKG78zEx1w2y41YAZ7TOdLCoPKWNUGhAINpZpPCFoQEtDKovT2Qs~HU5Ueqp4ti-ssMW12TdNddmzEY1Yvn9F-3lZ8uJSdeU5IQjbpHYs~QZRlKwPUIPqCkczvkT-IQUwUoorB8D-3iw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
+citation: 'Ongwere, Tom, Gabrielle Cantor, Sergio Ramirez Martin, Patrick C. Shih, James Clawson, and Kay Connelly. "Too many conditions, too little time: designing technological intervention for patients with type-2 diabetes and discordant chronic comorbidities." In Workshop on Interactive Systems in Health Care. 2017.'
+---
