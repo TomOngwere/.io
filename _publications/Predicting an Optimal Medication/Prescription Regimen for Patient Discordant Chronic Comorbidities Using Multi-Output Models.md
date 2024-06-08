@@ -9,5 +9,3 @@ slidesurl: 'https://www.mdpi.com/2078-2489/15/1/31'
 paperurl: 'https://www.mdpi.com/2078-2489/15/1/31'
 citation: 'Sharma, Ichchha Pradeep, Tam V. Nguyen, Shruti Ajay Singh, and Tom Ongwere. "Predicting an Optimal Medication/Prescription Regimen for Patient Discordant Chronic Comorbidities Using Multi-Output Models." Information 15, no. 1 (2024): 31.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
