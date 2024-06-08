@@ -2,7 +2,7 @@
 title: "Modeling Mobile Visualization for Medical Reports of Complex Chronic Diseases"
 collection: publications
 permalink: https://arxiv.org/abs/2212.01662
-excerpt: ''
+excerpt: 
 date: 2022/7/10
 venue: 'arXiv preprint arXiv:2212.01662'
 slidesurl: 'https://arxiv.org/abs/2212.01662'
