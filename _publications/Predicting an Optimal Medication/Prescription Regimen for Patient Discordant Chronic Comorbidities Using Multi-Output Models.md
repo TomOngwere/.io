@@ -1,5 +1,4 @@
 ---
-title: "Predicting an Optimal Medication/Prescription Regimen for Patient Discordant Chronic Comorbidities Using Multi-Output Models"
 collection: publications
 permalink: https://www.mdpi.com/2078-2489/15/1/31
 excerpt: 
