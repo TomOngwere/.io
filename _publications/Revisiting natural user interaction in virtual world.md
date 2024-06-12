@@ -1,5 +1,5 @@
 ---
-title: "Revisiting natural user interaction in virtual world"
+title: ""
 collection: publications
 permalink: https://link.springer.com/article/10.1007/s12652-022-04496-3
 excerpt: 

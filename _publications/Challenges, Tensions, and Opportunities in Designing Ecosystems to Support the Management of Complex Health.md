@@ -1,5 +1,5 @@
 ---
-title: "Challenges, Tensions, and Opportunities in Designing Ecosystems to Support the Management of Complex Health Needs"
+title: ""
 collection: publications
 permalink: https://web.archive.org/web/20220507074041id_/https://dl.acm.org/doi/pdf/10.1145/3491101.3503714
 excerpt: 
