@@ -1,5 +1,5 @@
 ---
-title: "Challenges, tensions, and opportunities in designing ecosystems to support the management of complex health challenges, tensions, and opportunities in designing ecosystems to …"
+title: ""
 collection: publications
 permalink: https://orca.cardiff.ac.uk/id/eprint/146615/
 excerpt: 
