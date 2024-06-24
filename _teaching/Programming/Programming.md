@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/programming/
 venue: "University of Dayton, Computer Science"
+description: "Covers advanced data structures and programming techniques in a high level programming language."
 date: 2024-01-01
 location: "Ohio, Usa"
 ---
