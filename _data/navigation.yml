@@ -7,16 +7,15 @@ main:
   #  url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/  
+    url: /teaching/
     children:
       - title: "Programming"
         url: /teaching/programming/
-      - title: "Course 2"
-        url: /teaching/  
-      - title: "Course 3"
-        url: /teaching/  
-      - title: "Course 4"
-        url: /teaching/  
+        children:
+          - title: "A"
+            url: /teaching/programming/a/
+          - title: "B"
+            url: /teaching/programming/b/ 
     
   - title: "Research"
     url: /Research/
