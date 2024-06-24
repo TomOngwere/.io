@@ -8,18 +8,17 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">jhhjh</a></li>
           {% for link in site.data.navigation.main %}
-            {% assign domain = link.url contains 'http' ? '' : base_path %}
             {% if link.children %}
               <li class="masthead__menu-item dropdown">
                 <a href="javascript:void(0)" class="dropbtn">{{ link.title }}</a>
-                <div class="dropdown-content" style="display: none; position: absolute; background-color: #f1f1f1; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;">
+                <div class="dropdown-content" style="display: none;">
                   {% for child in link.children %}
                     <a href="{{ child.url }}">{{ child.title }}</a>
                   {% endfor %}
                 </div>
               </li>
             {% else %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ link.url | prepend: base_path }}">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
@@ -31,8 +30,7 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var dropdowns = document.querySelectorAll('.dropbtn');
-    dropdowns.forEach(function(dropdown) {
+    document.querySelectorAll('.dropbtn').forEach(function(dropdown) {
       dropdown.addEventListener('click', function() {
         var dropdownContent = this.nextElementSibling;
         dropdownContent.style.display = dropdownContent.style.display === 'block' ? 'none' : 'block';
