@@ -6,19 +6,15 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">About</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">jhhjh</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
+            {% assign domain = link.url contains 'http' ? '' : base_path %}
             {% if link.children %}
               <li class="masthead__menu-item dropdown">
                 <a href="javascript:void(0)" class="dropbtn">{{ link.title }}</a>
-                <div class="dropdown-content">
+                <div class="dropdown-content" style="display: none; position: absolute; background-color: #f1f1f1; min-width: 160px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1;">
                   {% for child in link.children %}
-                    <a href="{{ domain }}{{ child.url }}">{{ child.title }}</a>
+                    <a href="{{ child.url }}">{{ child.title }}</a>
                   {% endfor %}
                 </div>
               </li>
@@ -33,121 +29,14 @@
   </div>
 </div>
 
-<style>
-  .masthead {
-    background-color: #333;
-    padding: 1rem 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .masthead__inner-wrap {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1rem;
-  }
-
-  .masthead__menu {
-    display: flex;
-    align-items: center;
-  }
-
-  .greedy-nav button {
-    background: none;
-    border: none;
-    cursor: pointer;
-  }
-
-  .navicon {
-    width: 30px;
-    height: 3px;
-    background-color: #fff;
-    margin: 6px 0;
-  }
-
-  .visible-links {
-    display: flex;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .masthead__menu-item {
-    position: relative;
-    margin-left: 1.5rem;
-  }
-
-  .masthead__menu-item a {
-    color: #fff;
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-    display: block;
-    transition: background 0.3s, color 0.3s;
-  }
-
-  .masthead__menu-item a:hover {
-    background-color: #575757;
-    color: #fff;
-  }
-
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #444;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .dropdown-content a {
-    color: #fff;
-    padding: 0.5rem 1rem;
-    text-decoration: none;
-    display: block;
-    transition: background 0.3s;
-  }
-
-  .dropdown-content a:hover {
-    background-color: #575757;
-  }
-
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-
-  .dropbtn {
-    cursor: pointer;
-  }
-
-  .hidden-links {
-    display: none;
-  }
-</style>
-
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     var dropdowns = document.querySelectorAll('.dropbtn');
     dropdowns.forEach(function(dropdown) {
-      dropdown.addEventListener('click', function(event) {
-        event.preventDefault(); // Prevent the default link behavior
+      dropdown.addEventListener('click', function() {
         var dropdownContent = this.nextElementSibling;
         dropdownContent.style.display = dropdownContent.style.display === 'block' ? 'none' : 'block';
       });
     });
-
-    // Close dropdowns if clicked outside
-    window.onclick = function(event) {
-      if (!event.target.matches('.dropbtn')) {
-        var dropdownContents = document.querySelectorAll('.dropdown-content');
-        dropdownContents.forEach(function(dropdownContent) {
-          dropdownContent.style.display = 'none';
-        });
-      }
-    }
   });
 </script>
