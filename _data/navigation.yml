@@ -10,7 +10,7 @@ main:
    # url: /teaching/  
     children:
       - title: "Programming"
-        url: /teaching/programming/ 
+        url: /teaching/programming/programming.md 
       - title: "Course 2"
         url: /teaching/  
       - title: "Course 3"
