@@ -34,23 +34,85 @@
 </div>
 
 <style>
+  .masthead {
+    background-color: #333;
+    padding: 1rem 0;
+  }
+
+  .masthead__inner-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+
+  .masthead__menu {
+    display: flex;
+    align-items: center;
+  }
+
+  .greedy-nav button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .navicon {
+    width: 30px;
+    height: 3px;
+    background-color: #fff;
+    margin: 6px 0;
+  }
+
+  .visible-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .masthead__menu-item {
+    position: relative;
+    margin-left: 1.5rem;
+  }
+
+  .masthead__menu-item a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+    transition: background 0.3s;
+  }
+
+  .masthead__menu-item a:hover {
+    background-color: #575757;
+  }
+
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: #444;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     list-style: none;
     padding: 0;
     margin: 0;
+    top: 100%;
+  }
+
+  .dropdown-content li a {
+    color: #fff;
+    padding: 0.5rem 1rem;
+  }
+
+  .dropdown-content li a:hover {
+    background-color: #575757;
   }
 
   .dropdown:hover .dropdown-content {
-    display: block;
-  }
-
-  .dropdown-content li {
     display: block;
   }
 
@@ -58,8 +120,8 @@
     cursor: pointer;
   }
 
-  .masthead__menu-item {
-    position: relative;
+  .hidden-links {
+    display: none;
   }
 </style>
 
