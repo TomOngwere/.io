@@ -16,11 +16,11 @@
             {% if link.children %}
               <li class="masthead__menu-item dropdown">
                 <a href="javascript:void(0)" class="dropbtn">{{ link.title }}</a>
-                <ul class="dropdown-content">
+                <div class="dropdown-content">
                   {% for child in link.children %}
-                    <li><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+                    <a href="{{ domain }}{{ child.url }}">{{ child.title }}</a>
                   {% endfor %}
-                </ul>
+                </div>
               </li>
             {% else %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
@@ -103,12 +103,14 @@
     top: 100%;
   }
 
-  .dropdown-content li a {
+  .dropdown-content a {
     color: #fff;
     padding: 0.5rem 1rem;
+    display: block;
+    transition: background 0.3s;
   }
 
-  .dropdown-content li a:hover {
+  .dropdown-content a:hover {
     background-color: #575757;
   }
 
