@@ -10,7 +10,7 @@ main:
     url: /teaching/  
     children:
       - title: "Programming"
-        url: /teaching/  
+        url: /cps510/  
       - title: "Course 2"
         url: /teaching/  
       - title: "Course 3"
