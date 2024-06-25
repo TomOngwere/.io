@@ -17,9 +17,9 @@ main:
         url: /teaching/programming/
         children:
           - title: "CPS 151 - Algorithm and Programming I"
-            url: /teaching/programming/AlgorithmandProgrammingI/
+            url: /teaching/programming/AlgorithmandProgramming1/
           - title: "CPS 152 - Algorithm and Programming II"
-            url: /teaching/programming/AlgorithmandProgrammingII/
+            url: /teaching/programming/AlgorithmandProgramming2/
           - title: "CPS 501 - Advanced Programming and Data Structures"
             url: /teaching/programming/APDS/
 
