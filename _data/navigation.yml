@@ -9,19 +9,20 @@ main:
   - title: "Teaching"
     url: /teaching/
     children:
-     - title: "CPS 149: Creative Media App"
-        url: /teaching/CPS 149: Creative Media App/
-     - title: " CPS 499: Pervasive Health Applications"
-        url: /teaching/CPS 499: Pervasive Health Applications/
+      - title: "CPS 149: Creative Media App"
+        url: /teaching/CPS-149-Creative-Media-App/
+      - title: "CPS 499: Pervasive Health Applications"
+        url: /teaching/CPS-499-Pervasive-Health-Applications/
       - title: "Programming"
         url: /teaching/programming/
         children:
           - title: "CPS 151: Algorithm and Programming I"
-            url: /teaching/programming/CPS 151: Algorithm and Programming I/
-          - title: "CPS 151: Algorithm and Programming II"
-            url: /teaching/programming/CPS 151: Algorithm and Programming II/
+            url: /teaching/programming/CPS-151-Algorithm-and-Programming-I/
+          - title: "CPS 152: Algorithm and Programming II"
+            url: /teaching/programming/CPS-152-Algorithm-and-Programming-II/
           - title: "CPS 501: Advanced Programming and Data Structures"
-            url: /teaching/programming/CPS 501: Advanced Programming and Data Structures/ 
+            url: /teaching/programming/CPS-501-Advanced-Programming-and-Data-Structures/
+
     
   - title: "Research"
     url: /Research/
