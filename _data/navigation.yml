@@ -13,15 +13,12 @@ main:
         url: /teaching/CreativeMediaApp/
       - title: "CPS 499 Pervasive Health Applications"
         url: /teaching/PervasiveHealthApplications/
-      - title: "Programming"
-        url: /teaching/programming/
-        children:
-          - title: "CPS 151 - Algorithm and Programming I"
-            url: /teaching/programming/AlgorithmandProgramming1/
-          - title: "CPS 152 - Algorithm and Programming II"
-            url: /teaching/programming/AlgorithmandProgramming2/
-          - title: "CPS 501 - Advanced Programming and Data Structures"
-            url: /teaching/programming/APDS/
+      - title: "CPS 151 - Algorithm and Programming I"
+        url: /teaching/AlgorithmandProgramming1/
+      - title: "CPS 152 - Algorithm and Programming II"
+        url: /teaching/AlgorithmandProgramming2/
+      - title: "CPS 501 - Advanced Programming and Data Structures"
+        url: /teaching/APDS/
 
     
   - title: "Research"
