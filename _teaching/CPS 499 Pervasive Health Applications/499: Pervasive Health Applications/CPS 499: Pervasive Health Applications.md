@@ -2,7 +2,7 @@
 title: "CPS499: Pervasive Health Applications"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/CPS/499 - Pervasive Health Applications
+permalink: /teaching/CPS 499 Pervasive Health Applications
 venue: "University of Dayton, Computer Science"
 date: 2024-01-01
 location: "Ohio, USA"
