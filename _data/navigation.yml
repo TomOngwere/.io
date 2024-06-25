@@ -25,7 +25,7 @@ main:
     url: /Research/
     children:
       - title: "Complex Care Lab"
-        url: /Research/ComplexCareLab
+        url: /Research/ComplexCareLab/
       - title: "Students"
         url: /Research/Students/
         
