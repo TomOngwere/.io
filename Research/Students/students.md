@@ -8,9 +8,9 @@ permalink: /Research/Students/
 ### Pradeep 
 
 - **Portfolio**: [Pradeep's Portfolio](https://example.com/johns-portfolio)
-- **Description**: Brief description of John's work and achievements related to the research project.
+- **Description**: Pradeep is persuing his masters in computer science along side he's working on first arm of the P2P communication enchacment using AI project.
 
 ### Vishnu
 
 - **Portfolio**: [Vishnu's Portfolio](https://example.com/janes-portfolio)
-- **Description**: Brief description of Jane's work and achievements related to the research project.
+- **Description**: Vishnu is persuing his masters in computer science along side he's working on 2nd arm of the P2P communication enchacment using AI project.
