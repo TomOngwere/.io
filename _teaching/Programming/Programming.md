@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Teaching"
 permalink: /teaching/programming/
 ---
 ### CPS 150: Algorithms and Programming I
