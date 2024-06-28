@@ -1,13 +1,17 @@
-## CPS 150: Algorithms and Programming I
+---
+layout: page
+title: "Teaching"
+permalink: /teaching/programming/
+---
+### CPS 150: Algorithms and Programming I
 
 **Collection:** Teaching  
-**Type:** Undergraduate Course  
-**Permalink:** [University of Dayton - Algorithms and Programming I](/teaching/AlgorithmProgramming1/)  
+**Type:** Undergraduate Course   
 **Venue:** University of Dayton, Computer Science  
 **Date:** January 1, 2024  
 **Location:** Ohio, USA  
 
-### Course Overview
+#### Course Overview
 
 Introduction to computers and programming using a high-level, structured language. Topics include:
 - Problem Solving
@@ -19,16 +23,15 @@ Introduction to computers and programming using a high-level, structured languag
 
 ---
 
-## CPS 151: Algorithms and Programming II
+### CPS 151: Algorithms and Programming II
 
 **Collection:** Teaching  
-**Type:** Undergraduate Course  
-**Permalink:** [University of Dayton - Algorithms and Programming II](/teaching/AlgorithmandProgramming2/)  
+**Type:** Undergraduate Course   
 **Venue:** University of Dayton, Computer Science  
 **Date:** January 1, 2024  
 **Location:** Ohio, USA  
 
-### Course Overview
+#### Course Overview
 
 Algorithms and Programming II covers:
 - Object-Oriented Design and Development
@@ -42,16 +45,15 @@ Algorithms and Programming II covers:
 
 ---
 
-## CPS 501: Advanced Programming and Data Structures
+### CPS 501: Advanced Programming and Data Structures
 
 **Collection:** Teaching  
 **Type:** Graduate Course  
-**Permalink:** [University of Dayton - Advanced Programming and Data Structures](/teaching/APDS/)  
 **Venue:** University of Dayton, Computer Science  
 **Date:** January 1, 2024  
 **Location:** Ohio, USA  
 
-### Course Overview
+#### Course Overview
 
 A bridge course for students who already have a programming background. Covers:
 - Advanced Data Structures
