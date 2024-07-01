@@ -9,12 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/
     children:
-      - title: "CPS 149 Creative Media App"
-        url: /teaching/CreativeMediaApp/
-      - title: "CPS 499 Pervasive Health Applications"
-        url: /teaching/PervasiveHealthApplications/
       - title: "Programming"
         url: /teaching/Programming/
+      - title: "CPS 499 Pervasive Health Applications"
+        url: /teaching/PervasiveHealthApplications/
+      #- title: "Programming"
+       # url: /teaching/Programming/
 
   - title: "Research"
     url: /Research/
