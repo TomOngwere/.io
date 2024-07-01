@@ -13,8 +13,8 @@ main:
         url: /teaching/Programming/
       - title: "CPS 499 Pervasive Health Applications"
         url: /teaching/PervasiveHealthApplications/
-      #- title: "Programming"
-       # url: /teaching/Programming/
+      - title: "CPS 149: Creative Media App"
+        url: /teaching/CreativeMediaApp/
 
   - title: "Research"
     url: /Research/
