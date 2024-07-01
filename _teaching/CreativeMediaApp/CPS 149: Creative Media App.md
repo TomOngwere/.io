@@ -1,5 +1,5 @@
 ---
-title: "CPS 149: Creative Media App"
+title: "Programming"
 collection: teaching
 type: "Graduate and Undergraduate courses"
 permalink: /teaching/CreativeMediaApp/
