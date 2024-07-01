@@ -1,6 +1,12 @@
 ---
+title: "Programming"
+collection: teaching
+type: "Graduate course"
 permalink: /teaching/programming/
-collection: teahing
+venue: "University of Dayton, Computer Science"
+date: 2024-01-01
+location: "Ohio, Usa"
+
 ---
 
 ### CPS 150: Algorithms and Programming I
