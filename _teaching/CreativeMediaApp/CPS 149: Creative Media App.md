@@ -1,7 +1,9 @@
 ---
 title: "CPS 149: Creative Media App"
 collection: teaching
+type: "Graduate and Undergraduate courses"
 permalink: /teaching/CreativeMediaApp/
+venue: "University of Dayton, Computer Science"
 date: 2024-01-01
 location: "Ohio, USA"
 ---
