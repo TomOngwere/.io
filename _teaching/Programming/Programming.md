@@ -19,7 +19,7 @@ Introduction to computers and programming using a high-level, structured languag
 - Stepwise Refinement
 - Debugging
 
----
+
 
 ### CPS 151: Algorithms and Programming II
 
@@ -41,7 +41,7 @@ Algorithms and Programming II covers:
 - Binary Trees
 - Recursion
 
----
+
 
 ### CPS 501: Advanced Programming and Data Structures
 
@@ -57,3 +57,4 @@ A bridge course for students who already have a programming background. Covers:
 - Advanced Data Structures
 - Advanced Programming Techniques
 - High-Level Programming Language Proficiency
+---
