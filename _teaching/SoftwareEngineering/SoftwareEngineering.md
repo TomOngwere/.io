@@ -1,5 +1,5 @@
 ---
-title: "SoftwareEngineering"
+title: "Software Engineering Project"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/SoftwareEngineering/
