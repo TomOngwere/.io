@@ -2,7 +2,7 @@
 title: "Programming"
 collection: teaching
 type: "Graduate and Undergraduate courses"
-permalink: /teaching/CreativeMediaApp/
+permalink: /teaching/Programming/
 venue: "University of Dayton, Computer Science"
 date: 2024-01-01
 location: "Ohio, USA"
