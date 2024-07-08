@@ -3,7 +3,6 @@ title: "My Research Projects"
 collection: Research
 permalink: /Research/MyResearch/
 ---
-# Projects
 
 ## Project 1: Type-2 Diabetes & DCCs
 
